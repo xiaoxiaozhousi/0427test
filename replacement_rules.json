@@ -441,11 +441,29 @@
         "new_class": "EntryAbility"
     },
     {
+        "comment": "滴滴出行2"
+    },
+    {
+        "current_package": "com.sdu.didi.psnger",
+        "current_class": "com.didi.sdk.app.launch.splash.SplashActivity",
+        "new_package": "com.sdu.didi.hmos.psnger",
+        "new_class": "EntryAbility"
+    },
+    {
         "comment": "WPS"
     },
     {
         "current_package": "cn.wps.moffice_eng",
         "current_class": "cn.wps.moffice.main.local.HomeRootActivity",
+        "new_package": "cn.wps.mobileoffice.hap",
+        "new_class": "DocumentAbility"
+    },
+    {
+        "comment": "WPS2"
+    },
+    {
+        "current_package": "cn.wps.moffice_eng",
+        "current_class": "cn.wps.moffice.documentmanager.ab.proxy.main",
         "new_package": "cn.wps.mobileoffice.hap",
         "new_class": "DocumentAbility"
     }
