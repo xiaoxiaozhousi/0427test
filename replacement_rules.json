@@ -1,0 +1,452 @@
+[
+    {
+        "comment": "天气"
+    },
+    {
+        "current_package": "com.huawei.android.totemweatherapp",
+        "current_class": "com.huawei.android.totemweatherapp.WeatherHome",
+        "new_package": "com.huawei.hmsapp.totemweather",
+        "new_class": "com.huawei.hmsapp.totemweather.MainAbility"
+    },
+    {
+        "comment": "计算器"
+    },
+    {
+        "current_package": "com.android.calculator2",
+        "current_class": "com.huawei.android.totemweatherapp.WeatherHome",
+        "new_package": "com.huawei.hmos.calculator",
+        "new_class": "com.android.calculator2.Calculator"
+    },
+    {
+        "comment": "日历"
+    },
+    {
+        "current_package": "com.android.calendar",
+        "current_class": "com.android.calendar.AllInOneActivity",
+        "new_package": "com.huawei.hmos.calendar",
+        "new_class": "com.huawei.hmos.calendar.MainAbility"
+    },
+    {
+        "comment": "相机"
+    },
+    {
+        "current_package": "com.huawei.camera",
+        "current_class": "com.huawei.camera",
+        "new_package": "com.huawei.hmos.camera",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "相册"
+    },
+    {
+        "current_package": "com.android.gallery3d",
+        "current_class": "com.huawei.gallery.app.GalleryMain",
+        "new_package": "com.huawei.hmos.photos",
+        "new_class": "com.huawei.hmos.photos.MainAbility"
+    },
+    {
+        "comment": "时钟"
+    },
+    {
+        "current_package": "com.android.deskclock",
+        "current_class": "com.android.deskclock.AlarmsMainActivity",
+        "new_package": "com.huawei.hmos.clock",
+        "new_class": "com.huawei.hmos.clock.phone"
+    },
+    {
+        "comment": "备忘录"
+    },
+    {
+        "current_package": "com.example.android.notepad",
+        "current_class": "com.example.android.notepad.NotePadActivity",
+        "new_package": "com.huawei.hmos.notepad",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "设置"
+    },
+    {
+        "current_package": "com.android.settings",
+        "current_class": "com.android.settings.HWSettings",
+        "new_package": "com.huawei.hmos.settings",
+        "new_class": "com.huawei.hmos.settings.MainAbility"
+    },
+    {
+        "comment": "拨号"
+    },
+    {
+        "current_package": "com.ohos.contacts",
+        "current_class": "com.ohos.contacts.MainAbility",
+        "new_package": "com.ohos.contacts",
+        "new_class": "com.ohos.contacts.MainAbility"
+    },
+    {
+        "comment": "音乐"
+    },
+    {
+        "current_package": "com.android.mediacenter",
+        "current_class": "com.android.mediacenter.PageActivity",
+        "new_package": "com.huawei.hmsapp.music",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "主题"
+    },
+    {
+        "current_package": "com.huawei.android.thememanager",
+        "current_class": "com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity",
+        "new_package": "com.huawei.hmsapp.thememanager",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "短信"
+    },
+    {
+        "current_package": "com.android.mms",
+        "current_class": "com.android.mms.ui.ConversationList",
+        "new_package": "com.ohos.mms",
+        "new_class": "com.ohos.mms.MainAbility"
+    },
+    {
+        "comment": "微信"
+    },
+    {
+        "current_package": "com.tencent.mm",
+        "current_class": "com.tencent.mm.ui.LauncherUI",
+        "new_package": "com.tencent.wechat",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "QQ"
+    },
+    {
+        "current_package": "com.tencent.mobileqq",
+        "current_class": "com.tencent.mobileqq.activity.SplashActivity",
+        "new_package": "com.tencent.mqq",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "支付宝"
+    },
+    {
+        "current_package": "com.eg.android.AlipayGphone",
+        "current_class": "com.eg.android.AlipayGphone.AlipayLogin",
+        "new_package": "com.alipay.mobile.client",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "淘宝"
+    },
+    {
+        "current_package": "com.taobao.taobao",
+        "current_class": "com.taobao.tao.welcome.Welcome",
+        "new_package": "com.taobao.taobao4hmos",
+        "new_class": "Taobao_mainAbility"
+    },
+    {
+        "comment": "天猫"
+    },
+    {
+        "current_package": "com.tmall.wireless",
+        "current_class": "com.tmall.wireless.splash.TMSplashActivity",
+        "new_package": "com.tmall.tmall4hmos",
+        "new_class": "TmMainAbility"
+    },
+    {
+        "comment": "拼多多"
+    },
+    {
+        "current_package": "com.xunmeng.pinduoduo",
+        "current_class": "com.xunmeng.pinduoduo.ui.activity.MainFrameActivity",
+        "new_package": "com.xunmeng.pinduoduo.hos",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "咸鱼"
+    },
+    {
+        "current_package": "com.taobao.idlefish",
+        "current_class": "com.taobao.fleamarket.home.activity.InitActivity",
+        "new_package": "com.taobao.idlefish4ohos",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "京东"
+    },
+    {
+        "current_package": "com.jingdong.app.mall",
+        "current_class": "com.jingdong.app.mall.main.MainActivity",
+        "new_package": "com.jd.hm.mall",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "美团"
+    },
+    {
+        "current_package": "com.sankuai.meituan",
+        "current_class": "com.meituan.android.pt.homepage.activity.MainActivity",
+        "new_package": "com.sankuai.hmeituan",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "美团外卖"
+    },
+    {
+        "current_package": "com.sankuai.meituan.takeoutnew",
+        "current_class": "com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity",
+        "new_package": "com.meituan.takeaway",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "饿了么"
+    },
+    {
+        "current_package": "me.ele",
+        "current_class": "me.ele.Launcher",
+        "new_package": "me.ele.eleme",
+        "new_class": "EntryElemeAbility"
+    },
+    {
+        "comment": "百度"
+    },
+    {
+        "current_package": "com.baidu.searchbox",
+        "current_class": "com.baidu.searchbox.SplashActivity",
+        "new_package": "com.baidu.baiduapp",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "夸夸"
+    },
+    {
+        "current_package": "com.quark.browser",
+        "current_class": "com.ucpro.MainActivity",
+        "new_package": "com.quark.ohosbrowser",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "知乎"
+    },
+    {
+        "current_package": "com.zhihu.android",
+        "current_class": "com.zhihu.android.app.ui.activity.LauncherActivity",
+        "new_package": "com.zhihu.hmos",
+        "new_class": "PhoneAbility"
+    },
+    {
+        "comment": "抖音"
+    },
+    {
+        "current_package": "com.ss.android.ugc.aweme",
+        "current_class": "com.ss.android.ugc.aweme.splash.SplashActivity",
+        "new_package": "com.ss.hm.ugc.aweme",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "快手"
+    },
+    {
+        "current_package": "com.smile.gifmaker",
+        "current_class": "com.yxcorp.gifshow.HomeActivity",
+        "new_package": "com.kuaishou.hmapp",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "小红书"
+    },
+    {
+        "current_package": "com.xingin.xhs",
+        "current_class": "com.xingin.xhs.index.v2.IndexActivityV2",
+        "new_package": "com.xingin.xhs_hos",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "高德地图"
+    },
+    {
+        "current_package": "com.autonavi.minimap",
+        "current_class": "com.autonavi.map.activity.SplashActivity",
+        "new_package": "com.amap.hmapp",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "百度地图"
+    },
+    {
+        "current_package": "com.baidu.BaiduMap",
+        "current_class": "com.baidu.baidumaps.WelcomeScreen.Alias0",
+        "new_package": "com.baidu.hmmap",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "腾讯视频"
+    },
+    {
+        "current_package": "com.tencent.qqlive",
+        "current_class": "com.tencent.qqlive.ona.activity.SplashHomeActivity",
+        "new_package": "com.tencent.videohm",
+        "new_class": "AppAbility"
+    },
+    {
+        "comment": "爱奇艺"
+    },
+    {
+        "current_package": "com.qiyi.video",
+        "current_class": "com.qiyi.video.WelcomeActivity",
+        "new_package": "com.qiyi.video.hmy",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "优酷视频"
+    },
+    {
+        "current_package": "com.youku.phone",
+        "current_class": "com.youku.phone.ActivityWelcome",
+        "new_package": "com.youku.next",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "哔哩哔哩"
+    },
+    {
+        "current_package": "tv.danmaku.bili",
+        "current_class": "tv.danmaku.bili.MainActivityV2",
+        "new_package": "yylx.danmaku.bili",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "网易云音乐"
+    },
+    {
+        "current_package": "com.netease.cloudmusic",
+        "current_class": "com.netease.cloudmusic.activity.LoadingActivity",
+        "new_package": "com.netease.cloudmusic.hm",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "QQ音乐"
+    },
+    {
+        "current_package": "com.tencent.qqmusic",
+        "current_class": "com.tencent.qqmusic.activity.AppStarterActivity",
+        "new_package": "com.tencent.hm.qqmusic",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "酷狗音乐"
+    },
+    {
+        "current_package": "com.kugou.android",
+        "current_class": "com.kugou.android.app.splash.SplashActivity",
+        "new_package": "com.kugou.hmmusic",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "酷我音乐"
+    },
+    {
+        "current_package": "cn.kuwo.player",
+        "current_class": "cn.kuwo.player.activities.EntryActivity",
+        "new_package": "com.hmkuwo.cn",
+        "new_class": "KuWoAbility"
+    },
+    {
+        "comment": "汽水音乐"
+    },
+    {
+        "current_package": "com.luna.music",
+        "current_class": "com.luna.biz.main.main.MainActivity",
+        "new_package": "com.luna.hm.music",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "咪咕音乐"
+    },
+    {
+        "current_package": "cmccwm.mobilemusic",
+        "current_class": "cmccwm.mobilemusic.ui.SplashActivity",
+        "new_package": "cn.migu.music",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "咪咕音乐2"
+    },
+    {
+        "current_package": "cmccwm.mobilemusic",
+        "current_class": "cmccwm.mobilemusic.ui.base.MainActivity",
+        "new_package": "cn.migu.music",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "微博"
+    },
+    {
+        "current_package": "com.sina.weibo",
+        "current_class": "com.sina.weibo.SplashActivity",
+        "new_package": "com.sina.weibo.stage",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "王者荣耀前瞻版"
+    },
+    {
+        "current_package": "com.tencent.tmgp.sgame",
+        "current_class": "com.tencent.tmgp.sgame.SGameActivity",
+        "new_package": "com.tencent.tmgp.sgamece.hw",
+        "new_class": "SGameAbility"
+    },
+    {
+        "comment": "大众点评"
+    },
+    {
+        "current_package": "com.dianping.v1",
+        "current_class": "com.dianping.v1.NovaMainActivity",
+        "new_package": "com.sankuai.dianping",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "得物"
+    },
+    {
+        "current_package": "com.shizhuang.duapp",
+        "current_class": "com.shizhuang.duapp.modules.home.ui.SplashActivity",
+        "new_package": "com.dewu.hos",
+        "new_class": "HomeAbility"
+    },
+    {
+        "comment": "作业帮"
+    },
+    {
+        "current_package": "com.baidu.homework",
+        "current_class": "com.baidu.homework.activity.index.IndexActivity",
+        "new_package": "com.zuoyebang.homework",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "美图秀秀"
+    },
+    {
+        "current_package": "com.mt.mtxx.mtxx",
+        "current_class": "com.mt.mtxx.mtxx.MainActivity",
+        "new_package": "com.meitu.meitupic",
+        "new_class": "MainAbility"
+    },
+    {
+        "comment": "滴滴出行"
+    },
+    {
+        "current_package": "com.sdu.didi.psnger",
+        "current_class": "com.didi.sdk.app.launch.LauncherActivity",
+        "new_package": "com.sdu.didi.hmos.psnger",
+        "new_class": "EntryAbility"
+    },
+    {
+        "comment": "WPS"
+    },
+    {
+        "current_package": "cn.wps.moffice_eng",
+        "current_class": "cn.wps.moffice.main.local.HomeRootActivity",
+        "new_package": "cn.wps.mobileoffice.hap",
+        "new_class": "DocumentAbility"
+    }
+]
